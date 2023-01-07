@@ -3,10 +3,12 @@ Several progress bar projects
 
 
 1. First progress bar - choose number 
+
 [First link](https://kseniiamarkiv.github.io/progress-bars/01_first)
 ![image](https://kseniiamarkiv.github.io/progress-bars/first.jpg)
 
-2. Second progress bar - specify the number input that is synced to the range input
+2. Second progress bar - specify the number input that is synced to the range input (hover to numbers and choose your needed number)
+
 [Second link](https://kseniiamarkiv.github.io/progress-bars/02_second)
 ![image](https://kseniiamarkiv.github.io/progress-bars/second.jpg)
 
@@ -19,6 +21,8 @@ Several progress bar projects
 
 
 4. Forth Radial progress bar
+<p><em>input bar has difference of taken browser</em></p>
+
 [Forth link](https://kseniiamarkiv.github.io/progress-bars/04_forth)
 ![image](https://kseniiamarkiv.github.io/progress-bars/forth.jpg)
 

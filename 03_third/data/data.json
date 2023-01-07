@@ -1,0 +1,17 @@
+{
+    "description65": {
+        "statusProgress": "$65k",
+        "header": "Basic Basement Remodel",
+        "descriptionBlock": "A basic basement remodel typically involves updating the flooring, painting the walls and ceiling, and adding electrical and lighting fixtures."
+    },
+    "description85": {
+        "statusProgress": "$85k",
+        "header": "Avarage Basement Remodel",
+        "descriptionBlock": "An average basement remodel typically involves updating and improving the functionality of the space. This can include adding new flooring, lighting, and finishes, as well as installing new electrical and plumbing systems."
+    },
+    "description110": {
+        "statusProgress": "$110k",
+        "header": "High-End Basement Remodel",
+        "descriptionBlock": "A high-end basement remodel is a luxurious and sophisticated renovation of a lower level space. This type of remodel typically includes high-quality materials, modern design elements, and custom features such as custom cabinetry, built-in shelving, and specialized lighting."
+    }
+}

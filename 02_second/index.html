@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Bar</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <h3>Specify the number input that is synced to the range input</h3>
+        <div class="inputs">
+            <input type="range" step="25" min="0" max="100" value="25" id="range" oninput="rangevalue.value=value" />
+            <input type="number" id="rangevalue" value="25" oninput="range.value=value">
+        </div>
+    </div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+:root {
+    --input-number: #2cd9d3;
+}
+
+div.container {
+    display: grid;
+    place-content: center;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Moon Dance', cursive;
+    font-size: 40px;
+    position: relative;
+    top: -10rem;
+}
+
+div.inputs {
+    margin-top: 40px;
+    position: relative;
+    top: -10rem;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    margin-right: 15px;
+    width: 400px;
+    height: 20px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    background-image: linear-gradient(#333333, #333333);
+    background-repeat: no-repeat;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 55px;
+    height: 55px;
+    border: 10px solid #333333;
+    border-radius: 50%;
+    background: white;
+    cursor: ew-resize;
+    box-shadow: 0 0 2px 0 #555;
+    transition: background .3s ease-in-out;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    -webkit-appearance: none;
+    box-shadow: none;
+    border: none;
+    background: transparent;
+}
+
+input[type="number"] {
+    width: 6rem;
+    height: 3rem;
+    color: #555;
+    font-weight: 700;
+    border: none;
+    font-size: 3rem;
+    margin-left: 40px;
+}
+
+input[type="number"]:hover {
+    width: 6rem;
+    height: 3rem;
+    color: var(--input-number);
+    font-size: 3rem;
+    transition: 0.5s;
+}

@@ -11,8 +11,8 @@ Several progress bar projects
 ![image](https://kseniiamarkiv.github.io/progress-bars/second.jpg)
 
 3. Third progress bar - Drag the sliders to adjust your values:
-<span>&#10003;  </span>implemented ajax for get data from file
-<span>&#10003;  </span>insert data into given task on the fly
+<p><span>&#10003;  </span>implemented ajax for get data from file</p>
+<p><span>&#10003;  </span>insert data into given task on the fly</p>
 
 [Third link](https://kseniiamarkiv.github.io/progress-bars/03_third)
 ![image](https://kseniiamarkiv.github.io/progress-bars/third.jpg)
